@@ -1,0 +1,28 @@
+tulisan_miring{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-style: italic;
+}
+
+.cetak_tebal{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: skyblue;
+}
+
+#14pt{
+    font-size: 14pt;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+td{
+    font-weight: bold;
+}
+
+a{
+    font-size: 24px;
+}

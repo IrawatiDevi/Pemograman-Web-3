@@ -1,0 +1,23 @@
+h1{
+    color: black;
+    font-style: times;
+    font-size: 32;
+}
+#warna{
+    color:white  ;
+}
+.circular-image {
+    border: 1px solid #000000;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+   }
+
+.letak{
+   margin: 0 0 0 400;
+   padding: 0;
+   }
+.font {font-style: times;
+       font-size: 15;
+}
